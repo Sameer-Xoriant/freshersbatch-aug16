@@ -1,0 +1,12 @@
+p {
+    border: 1px solid red;
+    outline-color: green;
+}
+
+p{
+	outline-style : dotted;
+}
+.deco {
+	outline : 1px dashed black;
+	padding : 5px;
+}

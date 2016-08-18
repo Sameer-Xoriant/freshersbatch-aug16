@@ -1,0 +1,22 @@
+	
+A:link {
+		text-decoration: underline;
+					color : red;
+					} 
+			A:visited {
+						text-decoration: line-through;
+						color: blue;
+					} 
+			A:active {
+						text-decoration: none;
+						color : yellow;
+					} 
+			A:hover {
+						text-transform : uppercase;
+						color : black;
+					}
+			*{
+		    font-family: Sans-Serif;
+		    background-color : #defbff;
+		    font-weight : 700;
+			}
